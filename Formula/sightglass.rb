@@ -1,8 +1,8 @@
 class Sightglass < Formula
   desc "Menu bar monitor for what is using your Mac's CPU, battery and memory"
   homepage "https://github.com/mohinpatell/sightglass"
-  url "https://github.com/mohinpatell/sightglass/archive/refs/tags/v0.1.2.tar.gz"
-  sha256 "57c2f19ef4a825009db2847b72cde00afa9aa390773deb56be928e0e51e7ec1f"
+  url "https://github.com/mohinpatell/sightglass/archive/refs/tags/v0.1.3.tar.gz"
+  sha256 "cc5e4aab72102ca13867e01c15d89e76948defcf35f793198514400a342ce283"
   license "MIT"
   head "https://github.com/mohinpatell/sightglass.git", branch: "main"
 
